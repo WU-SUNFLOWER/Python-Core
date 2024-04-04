@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Python-Core\\PCbuild\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}|pythoncore.vcxproj|C:\\Users\\Administrator\\Desktop\\Python-Core\\PCbuild\\interface.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}|pythoncore.vcxproj|solutionrelative:interface.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Python-2.7.18\\Modules\\python.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "python.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Python-2.7.18\\Modules\\python.c",
+              "RelativeDocumentMoniker": "..\\..\\Python-2.7.18\\Modules\\python.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Python-2.7.18\\Modules\\python.c",
+              "RelativeToolTip": "..\\..\\Python-2.7.18\\Modules\\python.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T07:49:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "interface.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Python-Core\\PCbuild\\interface.c",
+              "RelativeDocumentMoniker": "interface.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Python-Core\\PCbuild\\interface.c",
+              "RelativeToolTip": "interface.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T06:26:33.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

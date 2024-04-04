@@ -1,0 +1,3 @@
+﻿  python.c
+LINK : warning LNK4281: x64 映像的基址 0x1D000000 不适当；将基址设为 4 GB 以上以实现最佳 ASLR 优化
+  python.vcxproj -> C:\Users\Administrator\Desktop\Python-Core\PCBuild\amd64\python_d.exe
