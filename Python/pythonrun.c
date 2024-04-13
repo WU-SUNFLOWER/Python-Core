@@ -287,8 +287,8 @@ Py_InitializeEx(int install_sigs)
     _PyGILState_Init(interp, tstate);
 #endif /* WITH_THREAD */
 
-    if (!Py_NoSiteFlag)
-        initsite(); /* Module site */
+    //if (!Py_NoSiteFlag)
+    //    initsite(); /* Module site */
 
     if ((p = Py_GETENV("PYTHONIOENCODING")) && *p != '\0') {
         p = icodeset = codeset = strdup(p);
